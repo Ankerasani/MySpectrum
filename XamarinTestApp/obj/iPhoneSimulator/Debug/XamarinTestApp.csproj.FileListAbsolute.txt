@@ -1,0 +1,9 @@
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/XamarinTestApp.csproj.CoreCompileInputs.cache
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/bin/iPhoneSimulator/Debug/XamarinTestApp.exe
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/bin/iPhoneSimulator/Debug/XamarinTestApp.pdb
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/XamarinTestApp.exe
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/XamarinTestApp.pdb
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/device-builds/ipad7.1-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/device-builds/ipad7.1-11.2/actool/_PartialAppManifest.items
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/device-builds/ipad7.1-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/nb/Projects/XamarinTestApp/XamarinTestApp/obj/iPhoneSimulator/Debug/device-builds/ipad7.1-11.2/optimized/

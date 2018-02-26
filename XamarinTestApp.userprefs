@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{92A29A81-F641-4309-9680-0BD534733F19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTestApp/UtilityClasses/Constants.cs">
+    <Files>
+      <File FileName="XamarinTestApp/DataBaseFiles/SQLiteDBHelper.cs" Line="53" Column="1" />
+      <File FileName="XamarinTestApp/ViewModels/UserListTableViewDataSource.cs" Line="31" Column="25" />
+      <File FileName="XamarinTestApp/ViewControllers/SignUpViewController.cs" Line="49" Column="15" />
+      <File FileName="XamarinTestApp/ViewModels/UserObject.cs" Line="24" Column="1" />
+      <File FileName="XamarinTestApp/ViewControllers/SignInViewController.cs" Line="36" Column="36" />
+      <File FileName="XamarinTestApp/Main.cs" Line="16" Column="1" />
+      <File FileName="XamarinTestApp/ViewControllers/UserListViewController.cs" Line="29" Column="2" />
+      <File FileName="XamarinTestApp/UtilityClasses/Constants.cs" Line="30" Column="37" />
+      <File FileName="XamarinTestApp/UtilityClasses/BaseClass.cs" Line="79" Column="68" />
+      <File FileName="XamarinTestApp/Main.storyboard" />
+      <File FileName="XamarinTestApp/ViewControllers/SignUpViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="XamarinTestApp/ViewControllers/UserTableViewCell.cs" Line="10" Column="23" />
+      <File FileName="XamarinTestApp/MonoTouch/Foundation.cs" Line="9" Column="2" />
+      <File FileName="XamarinTestApp/MonoTouch/SQLite.cs" Line="1787" Column="13" />
+      <File FileName="XamarinTestApp/MonoTouch/SQLiteAsync.cs" Line="1" Column="1" />
+      <File FileName="XamarinTestApp/ViewControllers/ViewController.cs" Line="24" Column="10" />
+      <File FileName="XamarinTestApp/ViewControllers/UserTableViewCell.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinTestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DB64A6A9-9F1F-4E69-AE24-A8CE9719E326" automaticSigning="False" />
+</Properties>
